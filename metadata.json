@@ -1,0 +1,6 @@
+{
+  "name": "仙台育英学園沖縄高校 オープンキャンパス スタンプラリー",
+  "description": "仙台育英学園沖縄高等学校のオープンキャンパス公式デジタルスタンプラリー。1Fから4Fまでの校内マップを見ながら各施設を巡り、スタンプを集めて限定記念品をゲットしよう！",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
